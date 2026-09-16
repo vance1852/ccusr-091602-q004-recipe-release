@@ -1,0 +1,6 @@
+{
+  "project": "recipe-release-control",
+  "review_states": ["draft", "technical_review", "quality_review", "approved", "rejected"],
+  "release_states": ["frozen", "deploying", "paused", "completed", "rolled_back"],
+  "device_results": ["applied", "digest_mismatch", "timeout", "rejected"]
+}
